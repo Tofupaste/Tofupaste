@@ -12,7 +12,8 @@
   <img src="https://wakatime.com/share/@Tofupaste/3e7adcc0-7b35-4482-b078-f8bfd757ccf3.svg" alt="WakaTime Activity" />
 </div>
 
-<br>
+[![wakatime](https://wakatime.com/badge/user/f5e0ee24-e15d-4b21-865f-cc30610b0d82.svg)](https://wakatime.com/@f5e0ee24-e15d-4b21-865f-cc30610b0d82)
+
 <hr>
 <br>
 
