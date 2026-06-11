@@ -1,7 +1,7 @@
 <h1> hi lol :3 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tofupaste&layout=compact&bg_color=a788b2&title_color=e6d7ec&text_color=f5f5f5" width="850" alt="WakaTime Language" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tofupaste&layout=compact&bg_color=a788b2&title_color=e6d7ec&text_color=f5f5f5" width="550" alt="WakaTime Language" />
 </div>
 
 <br>
